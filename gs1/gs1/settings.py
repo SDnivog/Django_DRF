@@ -39,6 +39,9 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'api',
+    'branch',
+    'Chemical_Engineering',
+    'nitj',
 ]
 
 MIDDLEWARE = [
